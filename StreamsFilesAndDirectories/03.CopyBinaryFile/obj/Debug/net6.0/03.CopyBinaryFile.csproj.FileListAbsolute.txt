@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\bin\Debug\net6.0\03.CopyBinaryFile.exe
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\bin\Debug\net6.0\03.CopyBinaryFile.deps.json
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\bin\Debug\net6.0\03.CopyBinaryFile.runtimeconfig.json
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\bin\Debug\net6.0\03.CopyBinaryFile.dll
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\bin\Debug\net6.0\03.CopyBinaryFile.pdb
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.AssemblyInfo.cs
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.dll
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\obj\Debug\net6.0\refint\03.CopyBinaryFile.dll
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.pdb
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\obj\Debug\net6.0\03.CopyBinaryFile.genruntimeconfig.cache
+C:\Users\HP\source\repos\01.EvenLines\03.CopyBinaryFile\obj\Debug\net6.0\ref\03.CopyBinaryFile.dll
