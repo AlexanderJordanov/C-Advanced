@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\bin\Debug\net6.0\6.Supermarket.exe
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\bin\Debug\net6.0\6.Supermarket.deps.json
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\bin\Debug\net6.0\6.Supermarket.runtimeconfig.json
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\bin\Debug\net6.0\6.Supermarket.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\bin\Debug\net6.0\6.Supermarket.pdb
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\obj\Debug\net6.0\6.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\obj\Debug\net6.0\6.Supermarket.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\obj\Debug\net6.0\6.Supermarket.AssemblyInfo.cs
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\obj\Debug\net6.0\6.Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\obj\Debug\net6.0\6.Supermarket.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\obj\Debug\net6.0\refint\6.Supermarket.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\obj\Debug\net6.0\6.Supermarket.pdb
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\obj\Debug\net6.0\6.Supermarket.genruntimeconfig.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\6.Supermarket\obj\Debug\net6.0\ref\6.Supermarket.dll

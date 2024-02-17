@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net6.0\5.PrintEvenNumbers.exe
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net6.0\5.PrintEvenNumbers.deps.json
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net6.0\5.PrintEvenNumbers.runtimeconfig.json
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net6.0\5.PrintEvenNumbers.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\bin\Debug\net6.0\5.PrintEvenNumbers.pdb
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net6.0\5.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net6.0\5.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net6.0\5.PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net6.0\5.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net6.0\5.PrintEvenNumbers.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net6.0\refint\5.PrintEvenNumbers.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net6.0\5.PrintEvenNumbers.pdb
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net6.0\5.PrintEvenNumbers.genruntimeconfig.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\5.PrintEvenNumbers\obj\Debug\net6.0\ref\5.PrintEvenNumbers.dll
