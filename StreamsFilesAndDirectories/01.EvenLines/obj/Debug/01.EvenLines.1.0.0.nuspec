@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>01.EvenLines</id>
+    <version>1.0.0</version>
+    <authors>01.EvenLines</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\HP\source\repos\01.EvenLines\01.EvenLines\bin\Debug\net6.0\01.EvenLines.runtimeconfig.json" target="lib\net6.0\01.EvenLines.runtimeconfig.json" />
+    <file src="C:\Users\HP\source\repos\01.EvenLines\01.EvenLines\bin\Debug\net6.0\01.EvenLines.dll" target="lib\net6.0\01.EvenLines.dll" />
+  </files>
+</package>
