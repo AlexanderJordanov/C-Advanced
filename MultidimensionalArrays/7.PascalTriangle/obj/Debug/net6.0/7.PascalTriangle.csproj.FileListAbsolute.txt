@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\net6.0\7.PascalTriangle.exe
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\net6.0\7.PascalTriangle.deps.json
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\net6.0\7.PascalTriangle.runtimeconfig.json
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\net6.0\7.PascalTriangle.dll
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\bin\Debug\net6.0\7.PascalTriangle.pdb
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.AssemblyInfo.cs
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.dll
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net6.0\refint\7.PascalTriangle.dll
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.pdb
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net6.0\7.PascalTriangle.genruntimeconfig.cache
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\7.PascalTriangle\obj\Debug\net6.0\ref\7.PascalTriangle.dll

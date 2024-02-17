@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\net6.0\6.Jagged-ArrayModification.exe
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\net6.0\6.Jagged-ArrayModification.deps.json
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\net6.0\6.Jagged-ArrayModification.runtimeconfig.json
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\net6.0\6.Jagged-ArrayModification.dll
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\bin\Debug\net6.0\6.Jagged-ArrayModification.pdb
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net6.0\6.Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net6.0\6.Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net6.0\6.Jagged-ArrayModification.AssemblyInfo.cs
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net6.0\6.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net6.0\6.Jagged-ArrayModification.dll
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net6.0\refint\6.Jagged-ArrayModification.dll
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net6.0\6.Jagged-ArrayModification.pdb
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net6.0\6.Jagged-ArrayModification.genruntimeconfig.cache
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\6.Jagged-ArrayModification\obj\Debug\net6.0\ref\6.Jagged-ArrayModification.dll
