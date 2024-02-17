@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\bin\Debug\net6.0\7.HotPotato.exe
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\bin\Debug\net6.0\7.HotPotato.deps.json
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\bin\Debug\net6.0\7.HotPotato.runtimeconfig.json
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\bin\Debug\net6.0\7.HotPotato.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\bin\Debug\net6.0\7.HotPotato.pdb
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\obj\Debug\net6.0\7.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\obj\Debug\net6.0\7.HotPotato.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\obj\Debug\net6.0\7.HotPotato.AssemblyInfo.cs
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\obj\Debug\net6.0\7.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\obj\Debug\net6.0\7.HotPotato.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\obj\Debug\net6.0\refint\7.HotPotato.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\obj\Debug\net6.0\7.HotPotato.pdb
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\obj\Debug\net6.0\7.HotPotato.genruntimeconfig.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\7.HotPotato\obj\Debug\net6.0\ref\7.HotPotato.dll

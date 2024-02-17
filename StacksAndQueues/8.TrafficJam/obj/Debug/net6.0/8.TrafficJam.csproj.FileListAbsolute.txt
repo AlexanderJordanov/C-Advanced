@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net6.0\8.TrafficJam.exe
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net6.0\8.TrafficJam.deps.json
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net6.0\8.TrafficJam.runtimeconfig.json
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net6.0\8.TrafficJam.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\bin\Debug\net6.0\8.TrafficJam.pdb
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net6.0\8.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net6.0\8.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net6.0\8.TrafficJam.AssemblyInfo.cs
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net6.0\8.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net6.0\8.TrafficJam.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net6.0\refint\8.TrafficJam.dll
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net6.0\8.TrafficJam.pdb
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net6.0\8.TrafficJam.genruntimeconfig.cache
+C:\Users\HP\source\repos\StacksAndQueues-Lab\8.TrafficJam\obj\Debug\net6.0\ref\8.TrafficJam.dll
