@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\bin\Debug\net6.0\SquareWithMaximumSumAdvanced.exe
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\bin\Debug\net6.0\SquareWithMaximumSumAdvanced.deps.json
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\bin\Debug\net6.0\SquareWithMaximumSumAdvanced.runtimeconfig.json
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\bin\Debug\net6.0\SquareWithMaximumSumAdvanced.dll
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\bin\Debug\net6.0\SquareWithMaximumSumAdvanced.pdb
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\obj\Debug\net6.0\SquareWithMaximumSumAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\obj\Debug\net6.0\SquareWithMaximumSumAdvanced.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\obj\Debug\net6.0\SquareWithMaximumSumAdvanced.AssemblyInfo.cs
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\obj\Debug\net6.0\SquareWithMaximumSumAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\obj\Debug\net6.0\SquareWithMaximumSumAdvanced.dll
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\obj\Debug\net6.0\refint\SquareWithMaximumSumAdvanced.dll
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\obj\Debug\net6.0\SquareWithMaximumSumAdvanced.pdb
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\obj\Debug\net6.0\SquareWithMaximumSumAdvanced.genruntimeconfig.cache
+C:\Users\HP\source\repos\MultidimensionalArrays-Lab\SquareWithMaximumSumAdvanced\obj\Debug\net6.0\ref\SquareWithMaximumSumAdvanced.dll
