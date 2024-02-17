@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\bin\Debug\net6.0\06.ZipAndExtract.exe
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\bin\Debug\net6.0\06.ZipAndExtract.deps.json
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\bin\Debug\net6.0\06.ZipAndExtract.runtimeconfig.json
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\bin\Debug\net6.0\06.ZipAndExtract.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\bin\Debug\net6.0\06.ZipAndExtract.pdb
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\obj\Debug\net6.0\06.ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\obj\Debug\net6.0\06.ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\obj\Debug\net6.0\06.ZipAndExtract.AssemblyInfo.cs
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\obj\Debug\net6.0\06.ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\obj\Debug\net6.0\06.ZipAndExtract.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\obj\Debug\net6.0\refint\06.ZipAndExtract.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\obj\Debug\net6.0\06.ZipAndExtract.pdb
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\obj\Debug\net6.0\06.ZipAndExtract.genruntimeconfig.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\06.ZipAndExtracts\obj\Debug\net6.0\ref\06.ZipAndExtract.dll

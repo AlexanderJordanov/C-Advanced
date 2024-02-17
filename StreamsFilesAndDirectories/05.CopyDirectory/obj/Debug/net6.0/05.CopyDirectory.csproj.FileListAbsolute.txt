@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\bin\Debug\net6.0\05.CopyDirectory.exe
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\bin\Debug\net6.0\05.CopyDirectory.deps.json
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\bin\Debug\net6.0\05.CopyDirectory.runtimeconfig.json
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\bin\Debug\net6.0\05.CopyDirectory.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\bin\Debug\net6.0\05.CopyDirectory.pdb
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.AssemblyInfo.cs
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\obj\Debug\net6.0\refint\05.CopyDirectory.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.pdb
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\obj\Debug\net6.0\05.CopyDirectory.genruntimeconfig.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\StreamsFilesAndDirectories\05.CopyDirectory\obj\Debug\net6.0\ref\05.CopyDirectory.dll
