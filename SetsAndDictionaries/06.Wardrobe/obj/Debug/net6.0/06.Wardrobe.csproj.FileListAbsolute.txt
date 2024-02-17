@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.exe
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.deps.json
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.runtimeconfig.json
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.dll
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.pdb
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.AssemblyInfo.cs
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.dll
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\refint\06.Wardrobe.dll
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.pdb
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.genruntimeconfig.cache
+C:\Users\HP\source\repos\SetsAndDictionariesAdvanced-Exercise\06.Wardrobe\obj\Debug\net6.0\ref\06.Wardrobe.dll
