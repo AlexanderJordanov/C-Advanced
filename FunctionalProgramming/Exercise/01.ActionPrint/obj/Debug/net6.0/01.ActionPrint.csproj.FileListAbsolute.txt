@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.exe
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.deps.json
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.runtimeconfig.json
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.pdb
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.AssemblyInfo.cs
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net6.0\refint\01.ActionPrint.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.pdb
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.genruntimeconfig.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\FunctionalProgramming-Exercise\01.ActionPrint\obj\Debug\net6.0\ref\01.ActionPrint.dll
