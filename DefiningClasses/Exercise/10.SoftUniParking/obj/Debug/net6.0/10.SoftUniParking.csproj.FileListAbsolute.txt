@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\10.SoftUniParking.exe
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\10.SoftUniParking.deps.json
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\10.SoftUniParking.runtimeconfig.json
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\10.SoftUniParking.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\10.SoftUniParking.pdb
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\10.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\10.SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\10.SoftUniParking.AssemblyInfo.cs
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\10.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\10.SoftUniParking.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\refint\10.SoftUniParking.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\10.SoftUniParking.pdb
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\10.SoftUniParking.genruntimeconfig.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\ref\10.SoftUniParking.dll
