@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.exe
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.deps.json
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.runtimeconfig.json
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.pdb
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\net6.0\refint\03.OldestFamilyMember.dll
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.pdb
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.genruntimeconfig.cache
+C:\Users\HP\source\repos\SoftUni-Homework\Advanced C#\DefiningClasses-Exercise\03.OldestFamilyMember\obj\Debug\net6.0\ref\03.OldestFamilyMember.dll
